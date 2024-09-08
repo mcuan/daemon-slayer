@@ -6,7 +6,7 @@ Core in hand.
 Ready to deposit.
 
 But my mind lingers.
-On the Watchgod.
+On the watchgod.
 On my purpose.
 
 I yell into the void.
@@ -75,9 +75,3 @@ The word echoes.
 
 The daemon slayer.
 The core collector.
-
----
-The servant.
-
-Of the Watchgod?
-Or my own demons?
