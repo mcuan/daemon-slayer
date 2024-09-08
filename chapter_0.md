@@ -1,6 +1,5 @@
-Chapter 0:
-Random Access Memories
-
+### _Chapter 0: Random Access Memories_
+```
 I wake, gasping, my heart racing. 
 The darkness recedes, but the terror lingers.
 
@@ -71,3 +70,4 @@ A need to survive.
 And then... nothing.
 
 Gaps in my memory.
+```

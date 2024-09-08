@@ -1,6 +1,6 @@
-Chapter 2:
-The Daemon Slayer
+### _Chapter 2: The Daemon Slayer_
 
+```
 I stand before the STDOUT portal.
 Core in hand.
 Ready to deposit.
@@ -75,3 +75,4 @@ The word echoes.
 
 The daemon slayer.
 The core collector.
+```

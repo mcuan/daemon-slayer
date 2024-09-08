@@ -1,6 +1,6 @@
-Draft Chapter 3:
-Memory Corruption
+### _Chapter 3: Memory Corruption_
 
+```
 A universe in chaos.
 Daemon corruption spreads.
 Like a poison.
@@ -85,30 +85,4 @@ End the allocations.
 And the memory corruption.
 Restore balance.
 To reality.
-
-
-
-
-
-
-
-
-I remember.
-My role.
-
-The daemon slayer.
-The core collector.
-
-A custodian of order.
-In a fractured universe.
-
-The weight of my task.
-Crushes me.
-Yet.
-
-I must persist.
-For in the darkness.
-
-Lies a glimmer.
-Of hope.
-Or desperation.
+```

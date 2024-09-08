@@ -1,6 +1,6 @@
-Chapter 1:
-The Watchgod
+### _Chapter 1: The Watchgod_
 
+```
 I approach the interdimensional tribute portal.
 A big sign reads STDOUT: 
 The Systems Technology Department Output Utility Terminal.
@@ -73,3 +73,4 @@ Wonder what lies beyond this hell?
 Escape?
 Redemption?
 Or just more darkness?
+```
