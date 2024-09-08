@@ -54,35 +54,29 @@ A never-ending loop?
 
 Threads of sanity snap.
 Leaving me shattered.
+Despair sinks in.
 
-I see the truth.
+I need to stop this.
 The corruption's source.
 Must be severed.
 At its root.
 
+Deeper... must go deeper.
+Into the underworld's darkest recesses.
+Where terrors beyond comprehension lurk.
+Guarded by unspeakable abominations.
 
------draft
-
-Necromancer Malloc.
+Rumors whisper of Moloch.
 The master of dark allocation.
 Spawner of demonic entities.
 Corruptor of reality.
 
-Rumors whisper.
-Of Malloc's stronghold.
-Hidden deep.
-Within the Glitch Realm.
-
-Fortress of distorted code.
-Guarded by legions.
-Of twisted demons.
-
 I must infiltrate.
-The stronghold.
-Reach Malloc.
+Into the depths of hell.
+Reach Moloch.
 
 End the allocations.
-And the memory corruption.
+And the corruption.
 Restore balance.
 To reality.
 ```
