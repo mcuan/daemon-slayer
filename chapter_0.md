@@ -4,7 +4,7 @@ I wake, gasping, my heart racing.
 The darkness recedes, but the terror lingers.
 
 I remember fragments:
-A battle. Endless daemons. The Forker.
+A battle. Endless daemons. Moloch.
 Its duplicates swarmed me, relentless.
 I tried to fight, but they kept coming.
 
@@ -17,7 +17,7 @@ Why?
 The words sear into my mind.
 
 I'm back in the battle.
-Forker's duplicates close in.
+Moloch's duplicates close in.
 Axe in hand, its blade thirsts.
 
 I unleash hell.
